@@ -11,7 +11,6 @@ print(agent.get_battery())
 agent.streamon()
 
 
-
 def get_keyboard_input():
     """
     lr: left, right
